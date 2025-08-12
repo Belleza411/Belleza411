@@ -3,6 +3,7 @@ Currently pursuing a degree in Bachelor of Information Technology at Southern In
 * Currently doing projects with Angular and .NET Core Web API
 * Currently learning how to plan and manage coding projects effectively through project management plans
 * Passionate about clean, maintainable code and following best practices in software engineering
+  
 I’m excited to continue growing as a developer and contribute to innovative projects that make a meaningful impact.
 
 ## Tech Stack and Tools
