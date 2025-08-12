@@ -1,5 +1,5 @@
 # Hello World👋! I'm Aevan Belleza
-Currently pursuing a degree in Bachelor of Information Technology at Southern Institute of Technology, driven by a passion for technology and innovation. Aiming to develop innovative solutions, with a focus on making an impact through software development and web applications. Proficient in  frontend web technologies like Angular, Typescript, and CSS, and backend we technologies with .NET Core Web API, SQL Server, and MySQL, and version control with Git.
+Currently pursuing a degree in Bachelor of Information Technology at Southern Institute of Technology, driven by a passion for technology and innovation. Aiming to develop innovative solutions, with a focus on making an impact through software development and web applications. Proficient in  frontend technologies like Angular, Typescript, and CSS, and backend technologies with .NET Core Web API, SQL Server, and MySQL, and version control with Git.
 * Currently doing projects with Angular and .NET Core Web API
 * Currently learning how to plan and manage coding projects effectively through project management plans
 * Passionate about clean, maintainable code and following best practices in software engineering
