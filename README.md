@@ -25,17 +25,6 @@ I’m excited to continue growing as a developer and contribute to innovative pr
 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="height: 40px;"/>
   <img src="https://img.shields.io/badge/Eraser.io-000000?style=for-the-badge&logo=eraser&logoColor=white" alt="Eraser.io" style="height: 40px;"/>
-
-  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="height: 40px;"/>
-  
-  <!-- Visual Studio Code -->
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="height: 40px;"/>
-  
-  <!-- Visual Studio -->
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" style="height: 40px;"/>
 </div>
 
-</div>
 
