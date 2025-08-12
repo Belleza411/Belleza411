@@ -7,7 +7,7 @@ Currently pursuing a degree in Bachelor of Information Technology at Southern In
 I’m excited to continue growing as a developer and contribute to innovative projects that make a meaningful impact.
 
 ## Tech Stack and Tools
-<div style="display: flex;">
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" width="130"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="130"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="130"/>
